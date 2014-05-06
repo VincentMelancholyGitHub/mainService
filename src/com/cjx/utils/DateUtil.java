@@ -12,6 +12,5 @@ public class DateUtil {
 	{
 		String[] dateArr = date.split("-");
 		return dateArr[0];
-	}
-	
+	}	
 }
